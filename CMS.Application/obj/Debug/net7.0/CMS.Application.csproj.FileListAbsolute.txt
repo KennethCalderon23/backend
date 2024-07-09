@@ -1,0 +1,17 @@
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Application.deps.json
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Application.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Application.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Domain.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Infraestructure.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Infraestructure.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\bin\Debug\net7.0\CMS.Domain.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfo.cs
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Appl.44E07803.Up2Date
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\refint\CMS.Application.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\CMS.Application.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Application\obj\Debug\net7.0\ref\CMS.Application.dll

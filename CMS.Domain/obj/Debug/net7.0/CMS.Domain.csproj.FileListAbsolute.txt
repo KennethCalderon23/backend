@@ -1,0 +1,11 @@
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\bin\Debug\net7.0\CMS.Domain.deps.json
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\bin\Debug\net7.0\CMS.Domain.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\bin\Debug\net7.0\CMS.Domain.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.AssemblyInfo.cs
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\refint\CMS.Domain.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\CMS.Domain.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Domain\obj\Debug\net7.0\ref\CMS.Domain.dll

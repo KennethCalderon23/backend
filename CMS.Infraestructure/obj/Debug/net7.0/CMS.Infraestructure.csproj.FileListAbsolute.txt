@@ -1,0 +1,17 @@
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Infraestructure.deps.json
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Infraestructure.runtimeconfig.json
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Infraestructure.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Infraestructure.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Domain.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\bin\Debug\net7.0\CMS.Domain.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.AssemblyInfo.cs
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infr.5030B715.Up2Date
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\refint\CMS.Infraestructure.dll
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.pdb
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\CMS.Infraestructure.genruntimeconfig.cache
+C:\Users\juanp\Documents\source\repositories\Uisek\DAW_Abril2024\CMS.API\CMS.Infraestructure\obj\Debug\net7.0\ref\CMS.Infraestructure.dll
